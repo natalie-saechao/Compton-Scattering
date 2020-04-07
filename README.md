@@ -1,2 +1,2 @@
-# Compton-Scattering
-Senior thesis project: analyzing compton scattering probability
+# compton scattering
+Senior thesis project: analyzing deposited energies from x-rays 
